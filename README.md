@@ -1,4 +1,4 @@
 # apnacollegedemo
 thsi is my frst repositary
 <br>
-author - divyansh merawat 
+author - divyansh merawat (change)
